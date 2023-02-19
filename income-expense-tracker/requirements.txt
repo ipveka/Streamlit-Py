@@ -1,0 +1,7 @@
+streamlit
+stremalit-option-menu
+python-dotenv
+plotly
+pandas
+numpy
+deta
